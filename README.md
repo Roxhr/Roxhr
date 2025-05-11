@@ -25,6 +25,10 @@ ta ficando legal o meu readme.me <h1 align="center">Oi! Eu sou o Gabriel ou Dev_
 
 ---
 
+![snake gif](https://github.com/Roxhr/Roxhr/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <div align="center">
   ✨ Obrigado por visitar meu perfil! ✨
 </div>
